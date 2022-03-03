@@ -1,0 +1,106 @@
+body{
+    width: 1000px;
+    margin:auto;
+    background-color: rgb(29, 28, 28);
+}
+header{
+    background-image: url("back.jpg");
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+header div h2{ 
+    font-size: 25pt;
+    padding-top: 20px;
+} 
+header div p{
+    font-size: 20pt;
+}
+header div button{
+    font-size: 20px;
+    color: white;
+    background-color:navy;
+    border: 0ch;
+    border-radius: 5px;
+    margin-bottom: 35px;
+}
+/* main css */
+main{
+    background-color: aliceblue;
+    font-family: sans-serif;
+}
+.first{
+    background-color: white;
+    padding:20px;
+}
+.one{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.paragraph{
+
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.p1{
+    margin-left: 100px;
+    margin-right: 50px;
+}
+.p2{
+    margin-left: 50px;
+    margin-right: 100px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(51, 49, 49);
+
+}
+.img{
+    width: 250px;
+    background-color: white;
+    margin: 20px 10px 20px 10px;
+    text-align: center;
+}
+.two{
+    width: 250px;
+    height: 250px;
+  
+
+}
+.three{
+    background-color: white;
+    text-align: center;
+    padding: 50px;
+}
+.four{
+    display: flex;
+    color:white;
+    justify-content: center;
+}
+.about{
+    background-color: rgb(53, 57, 61);
+    text-align: center;
+    width:;
+    width: 500px;
+    padding: 20px;
+}
+.contact{
+    width: 500px;
+    background-color: rgb(11, 93, 187);
+    text-align: center;
+    padding:20px
+}
+.ft{
+    background-color: black;
+    color: white;
+    padding: 20px;
+    font-size: 15pt;
+    padding-left: 30px;
+}
